@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="SQNOT11730_SQLEXPRESS.authorization"
+  DTS:DTSID="{1AADC08A-1A8F-4805-9669-8ED88F6EF85E}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=SQNOT11730\SQLEXPRESS;Initial Catalog=authorization;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-Integration Services Project-{1AADC08A-1A8F-4805-9669-8ED88F6EF85E}SQNOT11730\SQLEXPRESS.authorization;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

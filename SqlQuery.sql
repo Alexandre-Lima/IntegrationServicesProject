@@ -1,0 +1,3 @@
+﻿SELECT @@VERSION;
+
+SELECT TOP 20 * FROM "users";
